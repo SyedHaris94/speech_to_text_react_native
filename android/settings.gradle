@@ -1,0 +1,3 @@
+rootProject.name = 'speech_to_text_react_native'
+
+include ':app'
